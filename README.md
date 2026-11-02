@@ -8,12 +8,14 @@
 | [0053-maximum-subarray](https://github.com/KrishnaFromNIT/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/KrishnaFromNIT/leetcode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/KrishnaFromNIT/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KrishnaFromNIT/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KrishnaFromNIT/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishnaFromNIT/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/KrishnaFromNIT/leetcode/tree/master/0069-sqrtx) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KrishnaFromNIT/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KrishnaFromNIT/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
