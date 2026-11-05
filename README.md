@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KrishnaFromNIT/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/KrishnaFromNIT/leetcode/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KrishnaFromNIT/leetcode/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KrishnaFromNIT/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
